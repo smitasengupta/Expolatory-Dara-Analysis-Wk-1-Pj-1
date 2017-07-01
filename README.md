@@ -1,4 +1,4 @@
-# Expolatory-Dara-Analysis-Wk-1-Pj-1
+Expolatory-Data-Analysis-Wk-1-Pj-1
 Instructions
 
 This assignment uses data from the UC Irvine Machine Learning Repository, a popular repository for machine learning datasets. In particular, we will be using the “Individual household electric power consumption Data Set” which I have made available on the course web site:
